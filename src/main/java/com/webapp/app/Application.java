@@ -1,7 +1,7 @@
-package com.inymbus.app;
+package com.webapp.app;
 
 
-import com.inymbus.app.properties.Properties;
+import com.webapp.app.properties.Properties;
 import lombok.extern.slf4j.Slf4j;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

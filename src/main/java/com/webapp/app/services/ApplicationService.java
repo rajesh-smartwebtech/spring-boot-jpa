@@ -1,8 +1,8 @@
-package com.inymbus.app.services;
+package com.webapp.app.services;
 
-import com.inymbus.app.Application;
-import com.inymbus.app.factory.WebDriverFactory;
-import com.inymbus.app.properties.Properties;
+import com.webapp.app.Application;
+import com.webapp.app.factory.WebDriverFactory;
+import com.webapp.app.properties.Properties;
 import lombok.extern.slf4j.Slf4j;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

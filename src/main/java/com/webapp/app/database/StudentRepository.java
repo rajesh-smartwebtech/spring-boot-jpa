@@ -1,6 +1,6 @@
-package com.inymbus.app.database;
+package com.webapp.app.database;
 
-import com.inymbus.app.model.Student;
+import com.webapp.app.model.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;

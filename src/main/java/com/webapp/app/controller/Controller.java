@@ -1,12 +1,12 @@
-package com.inymbus.app.controller;
+package com.webapp.app.controller;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.inymbus.app.database.StudentRepository;
-import com.inymbus.app.model.ErrorMessage;
-import com.inymbus.app.model.Student;
-import com.inymbus.app.model.StudentData;
-import com.inymbus.app.services.ApplicationService;
+import com.webapp.app.database.StudentRepository;
+import com.webapp.app.model.ErrorMessage;
+import com.webapp.app.model.Student;
+import com.webapp.app.model.StudentData;
+import com.webapp.app.services.ApplicationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.ArrayList;

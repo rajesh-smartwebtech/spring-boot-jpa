@@ -1,4 +1,4 @@
-package com.inymbus.app.properties;
+package com.webapp.app.properties;
 
 import lombok.Getter;
 import lombok.Setter;

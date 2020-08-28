@@ -19,7 +19,7 @@ plugins {
     id 'maven-publish'
 }
 
-group = 'com.inymbus'
+group = 'com.webapp'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '1.8'
 

@@ -1,4 +1,4 @@
-package com.inymbus.app.factory;
+package com.webapp.app.factory;
 
 import org.openqa.selenium.WebDriver;
 import org.springframework.beans.factory.ObjectFactory;
